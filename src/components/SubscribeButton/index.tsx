@@ -1,4 +1,3 @@
-import { AxiosResponse } from 'axios';
 import { signIn, useSession } from 'next-auth/client'
 import { useRouter } from 'next/router';
 import React from 'react'
